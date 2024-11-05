@@ -194,7 +194,9 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+.facts_about_swimming{
+    margin: 0 10%;
+}
 ol{
     font-size: 30px;
     padding: 30px;
